@@ -1,0 +1,6 @@
+[submodule "neatline/exhibits/themes/jmm-whitney-overview"]
+	path = neatline/exhibits/themes/jmm-whitney-overview
+	url = https://github.com/davidmcclure/neatline-visjs.git
+[submodule "neatline/exhibits/themes/jmm-whitney-detail"]
+	path = neatline/exhibits/themes/jmm-whitney-detail
+	url = https://github.com/davidmcclure/neatline-visjs.git
